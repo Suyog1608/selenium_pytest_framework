@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b36facf-1267-4550-b974-9cbeb30f20c8" name="Changes" comment="Python framework with Selenium and Pytest">
-      <change afterPath="$PROJECT_DIR$/reports/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/test_report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/test_report1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/test_report2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1b36facf-1267-4550-b974-9cbeb30f20c8" name="Changes" comment="Python framework with Selenium and Pytest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
