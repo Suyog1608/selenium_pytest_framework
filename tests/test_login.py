@@ -14,3 +14,4 @@ def test_invalid_login(driver):
     driver.get("http://localhost:100")
     invalidLogin_page.invalidLogin("admin2", "admin")
     assert driver.find_element(By.XPATH, "//td[contains(text(), 'username and password')]").is_displayed() == True
+
