@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b36facf-1267-4550-b974-9cbeb30f20c8" name="Changes" comment="Python framework with Selenium and Pytest">
+      <change afterPath="$PROJECT_DIR$/reports/test_reports2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/test_reports4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_groupingInI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_ordering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_parallel_using_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_parallell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_usefixture.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="30KSZg56l1AU28SepPxQ0eilShh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,11 +47,92 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_parallell.Test_parallel_exec.test_launch_website_edge.executor": "Run",
+    "Python tests.Python tests for test_parallell.Test_parallel_exec.test_launch_website_firefox.executor": "Run",
+    "Python tests.Python tests for test_usefixture.Test_fixtures.test_login_browser.executor": "Run",
+    "Python tests.Python tests for test_usefixture.Test_fixtures.test_login_chrome.executor": "Run",
     "Python tests.Python tests in test_grouping.py.executor": "Run",
+    "Python tests.Python tests in test_ordering.py.executor": "Run",
+    "Python tests.Python tests in test_parallell.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "new-feature-branch"
+    "git-widget-placeholder": "new-testing-branch"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\PycharmProjects\selenium_pytest_framework\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_usefixture.Test_fixtures.test_login_browser">
+    <configuration name="Python tests for test_parallell.Test_parallel_exec.test_launch_website_edge" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="selenium_pytest_framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_parallell.Test_parallel_exec.test_launch_website_edge&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_parallell.Test_parallel_exec.test_launch_website_firefox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="selenium_pytest_framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_parallell.Test_parallel_exec.test_launch_website_firefox&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_usefixture.Test_fixtures.test_login_browser" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="selenium_pytest_framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_usefixture.Test_fixtures.test_login_browser&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_usefixture.Test_fixtures.test_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="selenium_pytest_framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_usefixture.Test_fixtures.test_login_chrome&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_usefixture.Test_fixtures.test_login_browser" />
+        <item itemvalue="Python tests.Python tests for test_usefixture.Test_fixtures.test_login_chrome" />
+        <item itemvalue="Python tests.Python tests for test_parallell.Test_parallel_exec.test_launch_website_edge" />
+        <item itemvalue="Python tests.Python tests for test_parallell.Test_parallel_exec.test_launch_website_firefox" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
